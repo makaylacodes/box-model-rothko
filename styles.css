@@ -1,0 +1,16 @@
+
+/*The div does not have text, but it's still treated as a box with content*/
+.canvas{
+    width:500;
+    height:600px;
+    background-color:#4d0f00;
+  }
+
+  /**/
+.frame{
+    border:50px solid black;
+    width:500px;
+  }
+
+
+  /**/
